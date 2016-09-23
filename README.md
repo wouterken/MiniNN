@@ -1,5 +1,5 @@
 ## MiniNN
-A Toy neaural network written in Ruby
+A Toy neural network written in Ruby
 
 Construct a small NN with an input layer (with named inputs), an array describing the number of hidden layers and their sizes, and an output layer (with labels)
 
